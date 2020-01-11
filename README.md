@@ -1,5 +1,11 @@
 # GitHub Plus Theme
 
+## How to use
+
+Copy theme-github-plus to "C:\Program Files\Microsoft VS Code\resources\app\extensions"
+
+## Desciption
+
 A full [VSCode](https://code.visualstudio.com/) editor theme inspired by the
 GitHub color scheme.
 
